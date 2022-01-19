@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-crude-firestore/static/css/main.10a2f666.css",
+    "main.js": "/react-crude-firestore/static/js/main.6df41dad.js",
+    "index.html": "/react-crude-firestore/index.html",
+    "main.10a2f666.css.map": "/react-crude-firestore/static/css/main.10a2f666.css.map",
+    "main.6df41dad.js.map": "/react-crude-firestore/static/js/main.6df41dad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a2f666.css",
+    "static/js/main.6df41dad.js"
+  ]
+}
